@@ -1,0 +1,24 @@
+{
+  "name": "ects-nataliia-maidannyk",
+  "version": "1.0.0",
+  "description": "A package to convert scores from 100-point system to ECTS format",
+  "main": "ects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatTuardy/ects-nataliia-maidannyk.git"
+  },
+  "keywords": [
+    "ECTS",
+    "conversion",
+    "scores"
+  ],
+  "author": "Nataliia Maidannyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatTuardy/ects-nataliia-maidannyk/issues"
+  },
+  "homepage": "https://github.com/NatTuardy/ects-nataliia-maidannyk#readme"
+}
